@@ -52,11 +52,6 @@ a {
     display: flex;
 }
 
-.hr {
-    width: 120px; 
-    margin-right: 5px;
-}
-
 .socialLink {
     width: 220px;
     display: flex;
